@@ -1,2 +1,2 @@
-# Ajile
-Ajile questions 
+# Agile
+Agile questions 
